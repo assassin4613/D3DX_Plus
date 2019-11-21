@@ -1,0 +1,9 @@
+﻿  cAxis.cpp
+  cGrid.cpp
+  cKeyManager.cpp
+  cMainGame.cpp
+d:\aducation\d3dx\d3dx\d3dx_plus\행렬변환\행렬변환\cmaingame.cpp(112): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\aducation\d3dx\d3dx\d3dx_plus\행렬변환\행렬변환\cmaingame.cpp(242): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  행렬변환.vcxproj -> D:\Aducation\D3DX\D3DX\D3DX_Plus\행렬변환\Debug\행렬변환.exe
