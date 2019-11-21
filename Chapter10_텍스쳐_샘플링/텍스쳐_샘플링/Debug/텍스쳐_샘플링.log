@@ -1,0 +1,8 @@
+﻿  cMainGame.cpp
+d:\aducation\d3dx\d3dx\d3dx_plus\chapter10_텍스쳐_샘플링\텍스쳐_샘플링\cmaingame.cpp(114): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\aducation\d3dx\d3dx\d3dx_plus\chapter10_텍스쳐_샘플링\텍스쳐_샘플링\cmaingame.cpp(286): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  cAxis.cpp
+  cGrid.cpp
+  코드를 생성하고 있습니다...
+  텍스쳐_샘플링.vcxproj -> D:\Aducation\D3DX\D3DX\D3DX_Plus\Chapter10_텍스쳐_샘플링\Debug\텍스쳐_샘플링.exe
