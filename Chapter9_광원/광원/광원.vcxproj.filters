@@ -13,8 +13,8 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\Logic">
-      <UniqueIdentifier>{8dd02df0-6695-41b8-9386-c40e80f92a7b}</UniqueIdentifier>
+    <Filter Include="소스 파일\Util">
+      <UniqueIdentifier>{74e16d20-68f6-4374-9243-edd9a9c87718}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -24,17 +24,14 @@
     <ClInclude Include="cMainGame.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Logic\cHero.h">
-      <Filter>소스 파일\Logic</Filter>
+    <ClInclude Include="Util\cAxis.h">
+      <Filter>소스 파일\Util</Filter>
     </ClInclude>
-    <ClInclude Include="Logic\cInstance.h">
-      <Filter>소스 파일\Logic</Filter>
+    <ClInclude Include="Util\cGrid.h">
+      <Filter>소스 파일\Util</Filter>
     </ClInclude>
-    <ClInclude Include="Logic\cTerrain.h">
-      <Filter>소스 파일\Logic</Filter>
-    </ClInclude>
-    <ClInclude Include="Logic\cTree.h">
-      <Filter>소스 파일\Logic</Filter>
+    <ClInclude Include="Util\cTimer.h">
+      <Filter>소스 파일\Util</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -44,17 +41,14 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Logic\cHero.cpp">
-      <Filter>소스 파일\Logic</Filter>
+    <ClCompile Include="Util\cAxis.cpp">
+      <Filter>소스 파일\Util</Filter>
     </ClCompile>
-    <ClCompile Include="Logic\cInstance.cpp">
-      <Filter>소스 파일\Logic</Filter>
+    <ClCompile Include="Util\cGrid.cpp">
+      <Filter>소스 파일\Util</Filter>
     </ClCompile>
-    <ClCompile Include="Logic\cTerrain.cpp">
-      <Filter>소스 파일\Logic</Filter>
-    </ClCompile>
-    <ClCompile Include="Logic\cTree.cpp">
-      <Filter>소스 파일\Logic</Filter>
+    <ClCompile Include="Util\cTimer.cpp">
+      <Filter>소스 파일\Util</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

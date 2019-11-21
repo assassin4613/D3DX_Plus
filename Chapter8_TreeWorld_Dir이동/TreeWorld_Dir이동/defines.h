@@ -24,4 +24,3 @@ struct SVertex
 };
 
 #include "cMainGame.h"
-#include "cKeyManager.h"
